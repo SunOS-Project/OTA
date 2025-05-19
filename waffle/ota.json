@@ -1,9 +1,10 @@
 {
-    "version": "",
-    "date": "0",
+    "version": "varuna",
+    "date": "1747641660000",
     "requiredDate": "0",
-    "url": "",
-    "filename": "",
-    "filesize": "0",
-    "md5": ""
+    "url": "https://sourceforge.net/projects/sunos-project/files/waffle/Sun-varuna-20250519-waffle-Official.zip/download",
+    "id": "75fefac0c0e11a133475b7d0efa7b902487d386f",
+    "filename": "Sun-varuna-20250519-waffle-Official.zip",
+    "filesize": "3080886207",
+    "md5": "39d85a466be62898877923ec89409ada"
 }
