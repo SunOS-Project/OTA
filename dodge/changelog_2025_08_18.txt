@@ -1,0 +1,14 @@
+Changelog
+- Merged August Security Patch
+- Updated vendor blobs to OnePlus 13s (CPH2723_15.0.2.501(EX01))
+- Fully rebased Kernel, modules, and device trees to OnePlus 13s (CPH2723_15.0.2.501(EX01))
+- Merged KERNEL.PLATFORM.4.0.r1-13500-kernel.0 tag
+- Added IFAAService support for CN variants
+- Improved overall performance and UI smoothness
+- Enable scaling reveal home animation
+- Integrated proper thermal management to reduce throttling
+- Fixed random UI lags/freezes
+- Fixed heating issue in recovery mode
+- Fixed inbuilt keybox config selector
+- Dropped HDR brightness support (causing issues on some apps)
+- Dropped Gcam
