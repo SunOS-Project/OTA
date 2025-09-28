@@ -1,23 +1,29 @@
 {
   "response": [
     {
-      "maintainer": "chandu078",
+      "maintainer": "Chandu Dyavanapelli",
       "currently_maintained": true,
       "oem": "OnePlus",
       "device": "13",
-      "filename": "",
-      "download": "",
-      "timestamp": 0,
-      "md5": "",
-      "sha256": "",
-      "size": 0,
-      "version": "",
-      "buildtype": "",
-      "forum": "",
+      "filename": "sun-bienor-20250929-OFFICIAL-dodge.zip",
+      "download": "https://sourceforge.net/projects/sunos-project/files/dodge/bienor/sun-bienor-20250929-OFFICIAL-dodge.zip/download",
+      "timestamp": 1759122864,
+      "md5": "4783b1a3c450dcc503a9efc46a61558b",
+      "sha256": "d37048bbd564c6e94c08ce49de8bfb12e149ccf22af551dd2d5e44496ac55df8",
+      "size": 3554405656,
+      "version": "bienor",
+      "buildtype": "user",
+      "forum": "https://t.me/sos_dodge",
       "firmware": "",
-      "paypal": "",
-      "github": "",
-      "initial_installation_images": [],
+      "paypal": "https://www.paypal.com/paypalme/ChanduDyavanapelli",
+      "github": "https://github.com/chandu078",
+      "initial_installation_images": [
+        "boot",
+        "dtbo",
+        "init_boot",
+        "Recovery",
+        "vendor_boot"
+      ],
       "extra_images": []
     }
   ]
